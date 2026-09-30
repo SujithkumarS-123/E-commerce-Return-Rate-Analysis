@@ -44,7 +44,14 @@ The project analyzes:
 
 ## Power BI Dashboard
 
-Dashboard screenshots will be added here.
+### Page 1 – Return Overview
+
+![Power BI Dashboard Page 1](powerbi_dashboard_page1.png)
+
+### Page 2 – Risk & Product Analysis
+
+![Power BI Dashboard Page 2](powerbi_dashboard_page2.png)
+
 
 ## Machine Learning
 
